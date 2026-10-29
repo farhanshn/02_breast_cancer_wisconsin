@@ -45,7 +45,7 @@ Precision of 100% means every tumor predicted as malignant was truly malignant. 
 ```bash
 git clone https://github.com/farhanshn/02_breast_cancer_wisconsin.git
 cd 02_breast_cancer_wisconsin
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
+pip install -r requirements.txt
 ```
 
 ## Usage
